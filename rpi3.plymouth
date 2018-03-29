@@ -1,0 +1,7 @@
+[Plymouth Theme]Name=RPI3
+Description=RPI3 Theme
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/rpi3
+ScriptFile=/usr/share/plymouth/themes/rpi3/rpi3.script
